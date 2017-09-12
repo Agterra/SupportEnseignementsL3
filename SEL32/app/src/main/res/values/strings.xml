@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SEL3</string>
+    <string name="url_reseau">http://perso.univ-lyon1.fr/olivier.gluck/supports_enseig.html</string>
+    <string name="url_algo_prog_complex">http://liris.cnrs.fr/~rchaine/COURS/LIFAP6/</string>
+    <string name="url_logique_classique">http://liris.cnrs.fr/ecoquery/dokuwiki/doku.php?id=enseignement:logique:start</string>
+    <string name="url_theorie_langages">http://liris.cnrs.fr/~sbrandel/wiki/doku.php?id=ens:liflf#supports_pedagogiques</string>
+    <string name="url_bdd">http://liris.cnrs.fr/marc.plantevit/doku/doku.php?id=lifbdw2_2017a</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
